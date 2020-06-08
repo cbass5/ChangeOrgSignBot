@@ -2,12 +2,14 @@
 
 This project is able to send a theoretically infinite number of petition signs to the website https://change.org/
 
-There are two files. The 1kSignaturesBot.py signs one petition 1000 times. The bot.py file signs whatever is in the petitions.txt file 10 times each.
+There are two files. The 1kSignaturesBot.py signs one petition 1000 times. The bot.py file signs whatever is in the petitions.txt file 10 times each. You can change this to whatever you would like. 
 
 I would suggest looking for petitions without CAPTCHAS right on the page like this. 
-![alt text](https://prnt.sc/svo2fy)
+![Capture](https://user-images.githubusercontent.com/44591891/83992656-e62f1f80-a905-11ea-8093-560ed52e0888.PNG)
 
-One good example is https://www.change.org/p/change-org-the-minneapolis-police-officers-to-be-charged-for-murder-after-killing-innocent-black-man?signed=true.
+
+One good example is:
+https://www.change.org/p/change-org-the-minneapolis-police-officers-to-be-charged-for-murder-after-killing-innocent-black-man?signed=true.
 
 # Dependencies 
  
