@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b5c794eb-68a2-4ce5-b3f4-af9cb21ad720" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1d1AdcP0H5dPTbJFTF6Mutr4knl" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager" selected="Python.1kSignaturesBot">
+    <configuration name="1kSignaturesBot" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="ChangeOrgSignBot" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1kSignaturesBot.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="bot" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="ChangeOrgSignBot" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/bot.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.1kSignaturesBot" />
+        <item itemvalue="Python.bot" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b5c794eb-68a2-4ce5-b3f4-af9cb21ad720" name="Default Changelist" comment="" />
+      <created>1591582314046</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1591582314046</updated>
+      <workItem from="1591582316240" duration="356000" />
+      <workItem from="1591582690877" duration="6954000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2292" y="207" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1591582831892">
+      <screen x="0" y="0" width="3840" height="1080" />
+    </state>
+    <state x="2292" y="207" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.3840.1080@0.0.3840.1080" timestamp="1591582831892" />
+    <state width="1340" height="252" key="GridCell.Tab.0.bottom" timestamp="1591589505308">
+      <screen x="0" y="0" width="3840" height="1080" />
+    </state>
+    <state width="1340" height="252" key="GridCell.Tab.0.bottom/0.0.3840.1080@0.0.3840.1080" timestamp="1591589505308" />
+    <state width="1340" height="252" key="GridCell.Tab.0.center" timestamp="1591589505308">
+      <screen x="0" y="0" width="3840" height="1080" />
+    </state>
+    <state width="1340" height="252" key="GridCell.Tab.0.center/0.0.3840.1080@0.0.3840.1080" timestamp="1591589505308" />
+    <state width="1340" height="252" key="GridCell.Tab.0.left" timestamp="1591589505308">
+      <screen x="0" y="0" width="3840" height="1080" />
+    </state>
+    <state width="1340" height="252" key="GridCell.Tab.0.left/0.0.3840.1080@0.0.3840.1080" timestamp="1591589505308" />
+    <state width="1340" height="252" key="GridCell.Tab.0.right" timestamp="1591589505308">
+      <screen x="0" y="0" width="3840" height="1080" />
+    </state>
+    <state width="1340" height="252" key="GridCell.Tab.0.right/0.0.3840.1080@0.0.3840.1080" timestamp="1591589505308" />
+    <state width="1340" height="311" key="GridCell.Tab.1.bottom" timestamp="1591583774036">
+      <screen x="0" y="0" width="3840" height="1080" />
+    </state>
+    <state width="1340" height="311" key="GridCell.Tab.1.bottom/0.0.3840.1080@0.0.3840.1080" timestamp="1591583774036" />
+    <state width="1340" height="311" key="GridCell.Tab.1.center" timestamp="1591583774036">
+      <screen x="0" y="0" width="3840" height="1080" />
+    </state>
+    <state width="1340" height="311" key="GridCell.Tab.1.center/0.0.3840.1080@0.0.3840.1080" timestamp="1591583774036" />
+    <state width="1340" height="311" key="GridCell.Tab.1.left" timestamp="1591583774036">
+      <screen x="0" y="0" width="3840" height="1080" />
+    </state>
+    <state width="1340" height="311" key="GridCell.Tab.1.left/0.0.3840.1080@0.0.3840.1080" timestamp="1591583774036" />
+    <state width="1340" height="311" key="GridCell.Tab.1.right" timestamp="1591583774036">
+      <screen x="0" y="0" width="3840" height="1080" />
+    </state>
+    <state width="1340" height="311" key="GridCell.Tab.1.right/0.0.3840.1080@0.0.3840.1080" timestamp="1591583774036" />
+    <state x="2339" y="197" key="SettingsEditor" timestamp="1591582724650">
+      <screen x="0" y="0" width="3840" height="1080" />
+    </state>
+    <state x="2339" y="197" key="SettingsEditor/0.0.3840.1080@0.0.3840.1080" timestamp="1591582724650" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/ChangeOrgSignBot$bot.coverage" NAME="bot Coverage Results" MODIFIED="1591589311115" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ChangeOrgSignBot$1kSignaturesBot.coverage" NAME="1kSignaturesBot Coverage Results" MODIFIED="1591589741291" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ChangeOrgSignBot$Unnamed.coverage" NAME="Unnamed Coverage Results" MODIFIED="1591582799963" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+  </component>
+</project>
