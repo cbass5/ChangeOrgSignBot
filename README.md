@@ -2,14 +2,6 @@
 
 This project is able to send a theoretically infinite number of petition signs to the website https://change.org/
 
-There are two files. The 1kSignaturesBot.py signs one petition 1000 times, about every about 30 times there is a CAPTCHA to solve. The bot.py file signs whatever is in the petitions.txt file 10 times each. You can change this to whatever you would like. 
-
-IF THERE IS A CAPTCHA, MANUALLY DO IT AND CLICK ENTER IN COMMAND PROMPT. 
-
-I would suggest looking for petitions without CAPTCHAS right on the page like this. 
-![Capture](https://user-images.githubusercontent.com/44591891/83992656-e62f1f80-a905-11ea-8093-560ed52e0888.PNG)
-
-
 One good example is:
 https://www.change.org/p/change-org-the-minneapolis-police-officers-to-be-charged-for-murder-after-killing-innocent-black-man?signed=true.
 
@@ -46,6 +38,13 @@ python 1kSignaturesBot.py
 ```
 
 When the script is launched the console will prompt you for a change.org link. After the link is inputted, a web browser window will open. After that, the script should do the rest of the work.
+
+There are two files. The 1kSignaturesBot.py signs one petition 1000 times, about every about 30 times there is a CAPTCHA to solve. The bot.py file signs whatever is in the petitions.txt file 10 times each. You can change this to whatever you would like. 
+
+IF THERE IS A CAPTCHA, MANUALLY DO IT AND CLICK ENTER IN COMMAND PROMPT. 
+
+I would suggest looking for petitions without CAPTCHAS right on the page like this. 
+![Capture](https://user-images.githubusercontent.com/44591891/83992656-e62f1f80-a905-11ea-8093-560ed52e0888.PNG)
 
 # How it works
 
